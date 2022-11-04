@@ -16,7 +16,7 @@ function Hero() {
                             Mint Now
                         </button>
                     </a>
-                    <a href="https://twitter.com/" target="_blank"
+                    <a href="https://twitter.com/ligerinunft" target="_blank"
                         rel="noreferrer">
                         <button className="btn btn-info">
                             Twitter

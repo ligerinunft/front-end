@@ -7,10 +7,10 @@ function Footer() {
         <div className='footer container'>
             <p>Liger Inu&#169; All Rights Reserved</p>
             <div className='social'>
-                <a href='https://twitter.com/' >
+                <a href='https://twitter.com/ligerinunft' >
                     <AiOutlineTwitter size={24} color="#000" />
                 </a>
-                <a href='https://telegram.me/' >
+                <a href='https://t.me/ligerinunft' >
                     <RiTelegramFill size={24} color="#000" />
                 </a>
             </div>
