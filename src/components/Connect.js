@@ -97,7 +97,7 @@ function Connect() {
                         </Modal.Header>
                         <Modal.Body>
                             <p>Account: {data.account}</p>
-                            <p>Balance: {data.balance && parseFloat(data.balance).toFixed(4)} ETH</p>
+                            <p>Balance: {data.balance && parseFloat(data.balance).toFixed(4)} SHM</p>
                             <p>Network: {data.network}</p>
                         </Modal.Body>
                         <Modal.Footer>
