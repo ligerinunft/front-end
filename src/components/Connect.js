@@ -118,7 +118,7 @@ function Connect() {
                 </>
             ) : (
                 <button className="btn btn-secondary m-2 rounded" onClick={fetchAccountData} src="">
-                    Connect Wallet 
+                    Connect Shardeum 1.x 
                 </button>
             )}
         </>
