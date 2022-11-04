@@ -273,7 +273,7 @@ function MintPage() {
                                         Claim Your Liger Inu
                                     </h2>
                                     <img src={image1} className="mint-img" alt="" />
-                                    <p className="lead" style={{ marginBottom: "30px" }}>A Liger Inu is a character that is part of an 10000 algorithmically generated collection consisting of extremely unique features ranging from shades, eyes, chains, skins, hats, and backgrounds.</p>
+                                    <p className="lead" style={{ marginBottom: "30px" }}>A Liger Inu is a character that is part of an 10000 algorithmically generated collection consisting of extremely unique features ranging from shades, eyes, chains, skins, hats, and backgrounds</p>
                                     <div className="form-group" >
                                         <div className="d-flex justify-content-center">
                                             <button type="button"
