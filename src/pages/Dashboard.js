@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import NavBar from '../components/NavBar';
 import { useNavigate } from "react-router-dom";
-import { useSelector } from "react-redux"
+import { useSelector } from "react-redux";
 import { ethers } from "ethers";
 import { Form } from "react-bootstrap";
 import { CircularProgress } from "@mui/material";
